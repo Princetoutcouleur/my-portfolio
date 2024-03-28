@@ -3,12 +3,14 @@ import 'bootstrap/dist/js/bootstrap.min.js';
 import './App.css';
 import Navigation from './components/Navigation';
 import Header from './components/Header';
+import Project from './components/Project';
 
 function App() {
   return (
     <div className="App container">
       <Navigation/>
       <Header/>
+      <Project/>
     </div>
   );
 }
