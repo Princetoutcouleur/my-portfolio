@@ -1,0 +1,20 @@
+
+body{
+  background-color: #1f113d;
+  color: white ;
+  padding: 0;
+  margin: 0;
+  background-image: url(../src/assets/drawing.png);
+  background-size: contain;
+}
+.gradientColor {
+  background: rgb(127, 120, 235);
+  background: linear-gradient(
+    90deg,
+    rgba(127, 120, 235, 1) 15%,
+    rgba(94, 63, 197, 0.99781162464986) 52%,
+    rgba(0, 212, 255, 1) 93%
+  );
+  color: white;
+  font-weight: 500;
+}
