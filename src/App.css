@@ -15,6 +15,24 @@ body{
     rgba(94, 63, 197, 0.99781162464986) 52%,
     rgba(0, 212, 255, 1) 93%
   );
+}
+.buttonApp{
+  width: 200px;
+  height: 30px;
   color: white;
-  font-weight: 500;
+  font-size: 20px;
+  padding-bottom: 35px;
+  font-weight: bold;
+  border: none;
+  border-radius: 50px;
+}
+#projects .card{
+  border-top-left-radius: 30px;
+  border-top-right-radius: 0px;
+  border-bottom-right-radius: 30px;
+  border-bottom-left-radius: 0px;
+  border: 2px solid rgba(255, 255, 255, 0.991);
+  background-color: #0F1624;
+  color: #E5E5E5;
+  box-shadow: 0px 0px 10px white;
 }

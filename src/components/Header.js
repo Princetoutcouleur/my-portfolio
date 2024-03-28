@@ -5,7 +5,7 @@ import baba from '../assets/baba.png'
 
 const Header = () => {
   return (
-    <div id="Header" className="row pt-5 vh-100">
+    <div id="Header" className="row pt-5 mb-5">
       <div className="col-lg-6 col-md-6 col-sm-12 mt-5">
         <h3>Baba Thiam</h3>
         <h1 className="mb-4">Développeur Web Front-end</h1>
@@ -35,7 +35,7 @@ target="blank"            href="https://www.linkedin.com/in/baba-thiam-a7b86222a
             <FaGithub className="fs-3 me-4" />
           </a>
         </div>
-        <button className="px-3 py-2 rounded-pill gradientColor border-none">
+        <button className=" gradientColor buttonApp">
           <a href="mailto:babathiam0000@gmail.com" className="text-decoration-none text-white">Envoyer un mail</a>
         </button>
       </div>
