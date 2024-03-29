@@ -4,6 +4,7 @@ import './App.css';
 import Navigation from './components/Navigation';
 import Header from './components/Header';
 import Project from './components/Project';
+import Techno from './components/Techno';
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
       <Navigation/>
       <Header/>
       <Project/>
+      <Techno/>
     </div>
   );
 }

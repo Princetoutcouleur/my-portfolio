@@ -4,7 +4,7 @@ import { FaBars } from "react-icons/fa";
 
 const Navigation = () => {
   return (
-    <div id="Navigation " className="container fixed-top mb-5">
+    <div id="Navigation " className="container">
       <nav class="navbar navbar-expand-lg ">
         <div class="container-fluid">
           <a class="navbar-brand fs-4 text-white" href="#">
@@ -25,17 +25,17 @@ const Navigation = () => {
           <div class="collapse navbar-collapse " id="navbarNav">
             <ul class="navbar-nav ms-auto gap-3">
               <li class="nav-item">
-                <a class="nav-link text-white fw-semibold" href="#">
+                <a class="nav-link text-white fw-semibold" href="#projects">
                   Projets
                 </a>
               </li>
               <li class="nav-item">
-                <a class="nav-link text-white fw-semibold" href="#">
+                <a class="nav-link text-white fw-semibold" href="#techno">
                   Technologies
                 </a>
               </li>
               <li class="nav-item">
-                <a class="nav-link text-white fw-semibold" href="#">
+                <a class="nav-link text-white fw-semibold" href="#about">
                   A Propos
                 </a>
               </li>

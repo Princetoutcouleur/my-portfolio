@@ -5,7 +5,7 @@ import baba from '../assets/baba.png'
 
 const Header = () => {
   return (
-    <div id="Header" className="row pt-5 mb-5">
+    <div id="Header" className="row mb-5">
       <div className="col-lg-6 col-md-6 col-sm-12 mt-5">
         <h3>Baba Thiam</h3>
         <h1 className="mb-4">Développeur Web Front-end</h1>
