@@ -1,5 +1,4 @@
 import React from 'react';
-import { useSpring, animated } from 'react-spring';
 
 const Techno = () => {
   const technoData = [
@@ -37,7 +36,7 @@ const Techno = () => {
                 <p className='text-capitalize'>{tech.niveau}</p>
               </div>
               <div className="progress rounded-pill">
-                <animated.div
+                <div
                   className="progress-bar gradientColor rounded-pill"
                   role="progressbar"
                   style={{
@@ -48,7 +47,7 @@ const Techno = () => {
                   aria-valuemax="100"
                 >
                   {tech.pourcentage}%
-                </animated.div>
+                </div>
               </div>
             </div>
           ))}
