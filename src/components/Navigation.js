@@ -4,8 +4,8 @@ import { FaBars } from "react-icons/fa";
 
 const Navigation = () => {
   return (
-    <div id="Navigation " className="container">
-      <nav class="navbar navbar-expand-lg ">
+    <div id="Navigation" className="container">
+      <nav class="navbar navbar-expand-lg Navigation">
         <div class="container-fluid">
           <a class="navbar-brand fs-4 text-white" href="#">
             <img src={logo} className="me-3"/>
