@@ -5,6 +5,7 @@ import Navigation from './components/Navigation';
 import Header from './components/Header';
 import Project from './components/Project';
 import Techno from './components/Techno';
+import Footer from './components/Footer';
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <Header/>
       <Project/>
       <Techno/>
+      <Footer/>
     </div>
   );
 }

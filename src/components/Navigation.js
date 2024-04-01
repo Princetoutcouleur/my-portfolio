@@ -34,11 +34,6 @@ const Navigation = () => {
                   Technologies
                 </a>
               </li>
-              <li class="nav-item">
-                <a class="nav-link text-white fw-semibold" href="#about">
-                  A Propos
-                </a>
-              </li>
             </ul>
           </div>
         </div>
