@@ -55,7 +55,7 @@ const Techno = () => {
         <div className="col-12">
           <h3>Technologies et Compétences Supplémentaires</h3>
           <div className="row p-3 mx-lg-5">
-            <div className="col-lg-4 col-sm-6">
+            <div className="col-lg-4 col-md-6 col-sm-6">
               <ul>
                 <li>Git</li>
                 <li>Canva</li>
@@ -63,7 +63,7 @@ const Techno = () => {
                 <li>Netlify</li>
               </ul>
             </div>
-            <div className="col-lg-4 col-sm-6">
+            <div className="col-lg-4 col-md-6 col-sm-6">
               <ul>
                 <li>Adaptabilité</li>
                 <li>Communication</li>
@@ -71,7 +71,7 @@ const Techno = () => {
                 <li>Vente</li>
               </ul>
             </div>
-            <div className="col-lg-4 col-sm-6">
+            <div className="col-lg-4 col-md-6 col-sm-6">
               <ul>
                 <li>Anglais</li>
                 <li>Montage vidéo (Cap Cut)</li>

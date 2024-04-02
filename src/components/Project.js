@@ -10,28 +10,28 @@ const Project = () => {
       title: "tayeur",
       image: Tayeur,
       description:
-        "Design pleasant interfaces and digital products, user-centered and",
+        "Ce projet était ma première mission professionnelle. J'ai intégré le prototype du designer pour l'équipe backend.",
       url: "https://tayeur-gestion.vercel.app/",
     },
     {
       title: "daleu ndakaru",
       image: Daleundakaru,
       description:
-        "Design pleasant interfaces and digital products, user-centered and",
+        "C'est un site de vente de sneakers dont je suis le propriétaire, réalisé en collaboration avec un ami. Il est créé avec WordPress.",
       url: "https://daleundakaru.com",
     },
     {
       title: "travel",
       image: Travel,
       description:
-        "Design pleasant interfaces and digital products, user-centered and",
+        "Un site de voyage dont j'ai intégré toute l'interface utilisateur en ajoutant quelques animations pendant le défilement avec AOS.",
       url: "https://travel-website-rouge-nine.vercel.app/",
     },
     {
       title: "E-commerce",
       image: Ecommerce,
       description:
-        "Design pleasant interfaces and digital products, user-centered and",
+        "Ce site a été créé avec HTML, CSS et Bootstrap. C'était une tâche de validation pendant mon apprentissage de ce framework CSS.",
       url: "https://the-princetoutcouleur-business.vercel.app/",
     },
   ];
