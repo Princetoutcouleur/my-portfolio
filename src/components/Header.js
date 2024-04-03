@@ -40,7 +40,7 @@ target="blank"            href="https://www.linkedin.com/in/baba-thiam-a7b86222a
         </button>
       </div>
       <div className="col-lg-6 col-md-6 col-sm-12">
-        <img src={baba} className="img-fluid"/>
+        <img src={baba} className="img-fluid rounded-circle"/>
       </div>
     </div>
   );
