@@ -1,11 +1,19 @@
 import React from "react";
 import ProjectCard from "./ProjectCard";
 import Tayeur from "../assets/projects/tayeur.png";
+import todoSn from "../assets/projects/todoSN.png";
 import Daleundakaru from "../assets/projects/daleundakaru.png";
 import Travel from "../assets/projects/travel.png";
 import Ecommerce from "../assets/projects/princetoutcouleur-business.png";
 const Project = () => {
   const CardData = [
+    {
+      title: "Todo SN",
+      image: todoSn,
+      description:
+        "Dans ce projet, j'ai mis en pratique tout ce que j'ai appris avec le framework Javascript (reactJs) pour coder cette application de gestion de tache",
+      url: "https://todo-sn.vercel.app/",
+    },
     {
       title: "tayeur",
       image: Tayeur,
